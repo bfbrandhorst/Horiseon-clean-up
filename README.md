@@ -4,3 +4,4 @@ In this project we were tasked to clean up the webpage making a usable and attra
 
 [Image link for webpage mock up](./assets/images/01-html-Horiseon-demo.png)
 
+[Horiseon Deployment Link]https://bfbrandhorst.github.io/horiseon-challenge/
